@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gayatri Shinde</h1>
+<h1 align="center">Hi, I'm Gayatri Shinde</h1>
 
 <h3 align="center">
 AI & Data Engineering Enthusiast | Cloud Learner | Software Engineer | Open Source Learner
