@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Gayatri Shinde
+# Hi, I'm Gayatri Shinde
 
-### 🚀 Aspiring Data Engineer | AI & Machine Learning Enthusiast | Cloud Learner | Software Developer
+### Aspiring Data Engineer | AI & Machine Learning Enthusiast | Cloud Learner | Software Developer
 
 ---
 
-## 💫 About Me
+##  About Me
 
 I'm a Computer Engineering student passionate about building intelligent, scalable, and data-driven applications.
 
