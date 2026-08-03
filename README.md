@@ -222,12 +222,9 @@ where I can contribute to building scalable, intelligent, and cloud-native appli
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-💼 LinkedIn
+💼 LinkedIn:https://www.linkedin.com/in/gayatri-shinde-17969a29a/
+📧 Email:gayatrishinde204@gmail.com
 
-💻 Portfolio
 
-📧 Email
-
-🌐 GitHub
